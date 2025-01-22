@@ -1,0 +1,38 @@
+body{
+    background-color: dimgrey;
+}
+
+#mare{
+    width: 600px;
+    height: 300px;
+    padding: 20px;
+    background-color: rgb(56, 53, 58);
+    position: relative;
+    margin: auto;
+}
+
+#mana{
+
+    background-color: darkred;
+    border-radius: 10px;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+    margin:20px auto;
+    -webkit-border-radius:10px;
+    box-shadow:0 1px 2px #5e5d5b;
+    margin:0 auto 0 auto;
+
+}
+
+#pot{
+text-align: center;
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+#staf{
+font-family:fantasy ;
+font-size: 20px;
+text-align: center;
+}
