@@ -4,13 +4,13 @@ try {
     const response = await fetch('./data/complimenten.json');
     console.log(response);
     if (!response.ok) {
-        throw new Error("ik kan de json file niet laden. Check spelling en pad")
+        throw new Error("ik kan de json file niet laden. Check spelling en pad");
     }
     const data = await response.json();
     console.log(data);
     return data.complimenten;
 } catch (error) {
-    console.error("ik kan de complimenten niet verkrijgen", error)
+    console.error("ik kan de complimenten niet verkrijgen", error);
     return ["Je bent geweldig!", "Blijf stralen", "Code met passie"]
 }  finally {
      console.log("ferchCompliments is klaar");

@@ -8,13 +8,12 @@ Hier is een overzicht van de aanwezige bestanden en mappen:
 
 - **`main.css`**: Bevat de styling van de applicatie.
 - **`script.js`**: Bevat de JavaScript-logica voor het ophalen en weergeven van complimenten.
-- **`data/complimenten.json`** *(niet aanwezig)*: Een JSON-bestand dat verwacht wordt complimenten te bevatten.
-- HTML-bestand *(niet meegeleverd)*: Een eenvoudige HTML-pagina die de basisstructuur van de app zou moeten bevatten.
+- **`data/complimenten.json`**: Een JSON-bestand dat verwacht wordt complimenten te bevatten.
+- HTML-bestand : Een eenvoudige HTML-pagina die de basisstructuur van de app zou moeten bevatten.
 
 ## Configuratie en Installatie
 
 1. **Voorbereiding**:
-   - Zorg ervoor dat je een werkende HTML-pagina hebt die gebruik maakt van `main.css` en `script.js`.
    - Zorg ervoor dat er een bestand `data/complimenten.json` beschikbaar is in een map genaamd `data`. Het bestand moet een JSON-object bevatten met een array van complimenten, bijvoorbeeld:
      ```json
      {
@@ -66,8 +65,8 @@ Hier is een overzicht van de aanwezige bestanden en mappen:
 
 ## Auteurs
 
-- Ontwikkeling door [Jouw Naam] of een teamlid dat verantwoordelijk is voor dit project.
+- Ontwikkeling door [EMRE] of een teamlid dat verantwoordelijk is voor dit project.
 
 ## Copyright en Licentie
 
-© 2025 [Jouw Naam]. Dit project wordt verspreid onder de MIT-licentie. Zie `LICENSE` voor meer details.
+© 2025 [EMRE]. Dit project wordt verspreid onder de MIT-licentie.
